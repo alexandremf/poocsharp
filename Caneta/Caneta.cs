@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CanetaBic.Caneta
 {
-    class Caneta
+    class Caneta : Preco
     {
         private string modelo;
         public void SetModelo(string modelo)
@@ -58,4 +58,4 @@ namespace CanetaBic.Caneta
 
     }
 }
-}
+
