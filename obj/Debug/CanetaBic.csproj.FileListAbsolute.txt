@@ -1,0 +1,7 @@
+C:\Users\Alexandre\source\repos\AprendendoPoo2\CanetaBic\bin\Debug\CanetaBic.exe.config
+C:\Users\Alexandre\source\repos\AprendendoPoo2\CanetaBic\bin\Debug\CanetaBic.exe
+C:\Users\Alexandre\source\repos\AprendendoPoo2\CanetaBic\bin\Debug\CanetaBic.pdb
+C:\Users\Alexandre\source\repos\AprendendoPoo2\CanetaBic\obj\Debug\CanetaBic.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\AprendendoPoo2\CanetaBic\obj\Debug\CanetaBic.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\AprendendoPoo2\CanetaBic\obj\Debug\CanetaBic.exe
+C:\Users\Alexandre\source\repos\AprendendoPoo2\CanetaBic\obj\Debug\CanetaBic.pdb
